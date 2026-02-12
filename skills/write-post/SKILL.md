@@ -102,8 +102,7 @@ user-invocable: true
 - **MUST NOT DO**: 글을 수정하지 않음
 - **CONTEXT**: Phase 3 블로그 초안 내용, 주제 키워드
 
-> **참고**: GEMINI_API_KEY가 설정되지 않은 경우 이 Phase를 건너뛰고 Phase 6으로 진행.
-> 사용자에게 이미지 생성을 건너뛰었음을 안내.
+> **참고**: GEMINI_API_KEY가 설정되지 않은 경우 사용자에게 API Key를 요청
 
 ### Phase 6: 최종 문서 출력 → Agent: writer (`ulw` 활용)
 
