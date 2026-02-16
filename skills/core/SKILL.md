@@ -1,6 +1,7 @@
 ---
 name: core
 description: blog-poster 시스템 행동 규범 및 라우팅
+type: core
 ---
 
 # Core

@@ -2,6 +2,7 @@
 name: write-post
 description: 블로그 글 작성 메인 워크플로우 (6단계 순차 진행)
 user-invocable: true
+type: orchestrator
 ---
 
 # Write Post
